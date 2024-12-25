@@ -1,0 +1,11 @@
+{
+  "homepage": "Electro's Web Center: https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods-forge",
+  "1.20.1": {
+    "0.1": "First Electric Command Block Sword Update; ",
+    "0.0.7": "First Mod Version - First Electric Command Block Sword Test Update; "
+  },
+  "promos": {
+    "1.20.1-latest": "0.1",
+    "1.20.1-recommended": "0.1"
+  }
+}
